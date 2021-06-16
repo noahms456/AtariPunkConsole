@@ -1,4 +1,9 @@
 # Atari Punk Console Implementation
+#
+shout out to jessehammer for his original files, while I sort out EAGLE
+since it's what i'm into these days, I'm trying to implement voltage
+control on the pitch and pulse width modulation, and stuff it onto a Eurorack board
+please be gentle
 ##### *with modifications*
 
 ## What's In Here
